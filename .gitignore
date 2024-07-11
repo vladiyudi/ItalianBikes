@@ -1,0 +1,4 @@
+# Local Netlify folder
+.netlify
+/*.json
+node_modules
